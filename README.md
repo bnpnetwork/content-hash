@@ -1,4 +1,4 @@
-content-hash
+content-hash<br>
 npm packageCircleCIlicenceGitter chatBeerpay
 
 This is a simple package made for encoding and decoding content hashes. This package will be useful for every Ethereum developer wanting to interact with compliant domain resolvers.
